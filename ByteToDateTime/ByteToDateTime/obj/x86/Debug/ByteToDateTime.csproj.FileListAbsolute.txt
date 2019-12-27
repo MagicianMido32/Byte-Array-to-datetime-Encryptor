@@ -1,0 +1,16 @@
+C:\Users\medot\AppData\Local\Temporary Projects\ByteToDateTime\bin\Debug\ByteToDateTime.exe
+C:\Users\medot\AppData\Local\Temporary Projects\ByteToDateTime\bin\Debug\ByteToDateTime.pdb
+C:\Users\medot\AppData\Local\Temporary Projects\ByteToDateTime\obj\x86\Debug\ByteToDateTime.Form1.resources
+C:\Users\medot\AppData\Local\Temporary Projects\ByteToDateTime\obj\x86\Debug\ByteToDateTime.Properties.Resources.resources
+C:\Users\medot\AppData\Local\Temporary Projects\ByteToDateTime\obj\x86\Debug\ByteToDateTime.csproj.GenerateResource.Cache
+C:\Users\medot\AppData\Local\Temporary Projects\ByteToDateTime\obj\x86\Debug\ByteToDateTime.exe
+C:\Users\medot\AppData\Local\Temporary Projects\ByteToDateTime\obj\x86\Debug\ByteToDateTime.pdb
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Debug\ByteToDateTime.exe
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Debug\ByteToDateTime.pdb
+D:\Desktopp\ByteToDateTime\ByteToDateTime\bin\Debug\ByteToDateTime.exe
+D:\Desktopp\ByteToDateTime\ByteToDateTime\bin\Debug\ByteToDateTime.pdb
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Debug\ByteToDateTime.Form1.resources
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Debug\ByteToDateTime.Properties.Resources.resources
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Debug\ByteToDateTime.csproj.GenerateResource.Cache
+D:\Desktopp\work\ByteToDateTime\ByteToDateTime\obj\x86\Debug\ByteToDateTime.exe
+D:\Desktopp\work\ByteToDateTime\ByteToDateTime\obj\x86\Debug\ByteToDateTime.pdb

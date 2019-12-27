@@ -1,0 +1,7 @@
+D:\Desktopp\ByteToDateTime\ByteToDateTime\bin\Release\ByteToDateTime.exe
+D:\Desktopp\ByteToDateTime\ByteToDateTime\bin\Release\ByteToDateTime.pdb
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Release\ByteToDateTime.Form1.resources
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Release\ByteToDateTime.Properties.Resources.resources
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Release\ByteToDateTime.csproj.GenerateResource.Cache
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Release\ByteToDateTime.exe
+D:\Desktopp\ByteToDateTime\ByteToDateTime\obj\x86\Release\ByteToDateTime.pdb
